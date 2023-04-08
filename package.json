@@ -1,0 +1,14 @@
+{
+  "name": "@haxtra/result",
+  "version": "0.9.0",
+  "description": "Result/response object with HTTP-friendly status codes, for use with web APIs",
+  "homepage": "https://github.com/haxtra/result-js",
+  "repository": "github:haxtra/result-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["result","api","response","error","error-handling"],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
